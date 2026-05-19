@@ -1,0 +1,10 @@
+1. The - symbol appears in front of the attributes and the + in front of the methods. What does each one mean in terms of visibility? 
+	a) - mean private visibility
+	b) + mean public visibility
+2. What type of data is available and what two values can it have? 
+	a)avaliable(disponible) is a bool type 
+3. What is the ToString() method used  for in a C# class? 
+	a)this return th object in text representation of an object , Hlep to print the object value in human readable format
+
+
+

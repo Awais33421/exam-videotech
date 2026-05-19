@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using exam_videotech.model;
+
+namespace exam_videotech
+{
+    class Program
+    {
+       
+    }
+}
