@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exam-videotech")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fee468edd7f334301114a993bc9dfee4e44da13b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb12fb49a69e0e5e736e867aa06c040dbadb6ddc")]
 [assembly: System.Reflection.AssemblyProductAttribute("exam-videotech")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exam-videotech")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

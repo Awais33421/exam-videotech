@@ -36,7 +36,10 @@ namespace exam_videotech
             Console.WriteLine(" Current Date ");
             Console.WriteLine(DateTime.Now.ToShortDateString());
 
+      
+
             //Apartado 2.3 - Guardar en fichero  
+            SaveToFile(movies, "movies.text");
 
         }
         static void SaveToFile(List<Movie> movies, string path)
